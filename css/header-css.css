@@ -1,0 +1,18 @@
+.btn-header{
+    width: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: right;
+}
+
+.navbar-header{
+    width: 100%;
+}
+
+.navbar{
+    background: rgba(255, 255, 255, 0.6);
+    height: 60px;
+    border: none;
+    color: white;
+}
+
